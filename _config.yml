@@ -1,4 +1,5 @@
 title: My Jekyll Page
+description: description text
 
 # Build settings
 theme: jekyll-theme-minimal
