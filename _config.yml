@@ -1,5 +1,7 @@
+# Site settings
 title: My Jekyll Page
 description: description text
+email: somebody@email.com
 
 # Build settings
 theme: jekyll-theme-minimal
