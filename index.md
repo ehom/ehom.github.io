@@ -1,4 +1,4 @@
-# hello, world
+# Hello.
 
 Here are some projects that I've worked on:
 
