@@ -1,4 +1,4 @@
-# Hello.
+# Hello
 
 ## Here are some projects that I've worked on:
 
