@@ -2,6 +2,7 @@
 
 ## Here are some projects that I've worked on:
 
+* [Intl.js Explorer](https://ehom.github.io/intl.js-explorer/)
 * [browser check for Intl.js Support](https://ehom.github.io/intl.js-browser-check/)
 * [demo of Intl.Collator](https://ehom.github.io/intl-collator-demo/)
 * [address data explorer](https://ehom.github.io/address-data-browser/)
