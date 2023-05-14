@@ -2,7 +2,7 @@
 
 ## Here are some projects that I've worked on:
 
-* [Simple Wikipedia Search](https://ehom.github.io/simple-wikipedia-search/)
+* [Simple Wikipedia Search :mag:](https://ehom.github.io/simple-wikipedia-search/)
 * [Intl.js Explorer](https://ehom.github.io/intl.js-explorer/)
 * [address metadata explorer](https://ehom.github.io/address-data-browser/)
 * [world news headlines](http://ehom.github.io/news-api-demo)
